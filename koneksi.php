@@ -1,4 +1,5 @@
 <?php 
+<!-- mengembalikan nilai fungsi berupa variable koneksi Ke mySQL -->
 $koneksi = mysqli_connect("localhost","root","","yuktitipyuk");
  
 // Check connection
